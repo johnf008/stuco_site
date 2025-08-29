@@ -477,10 +477,10 @@
 }
 
 body #header_main:after {
-  border-color: rgb(50, 50, 204);
+  border-color: rgb(204, 96, 50);
 }
 body #header_main .school-name {
-  color: rgb(50, 50, 204);
+  color: rgb(204, 96, 50);
 }
 body #header_main .header-secondary-nav.topbar-nav .link-item a {
   color: rgb(0, 0, 0);
@@ -566,7 +566,7 @@ body #header_main .sitenav-main .sub-nav a:focus, body #header_main .sitenav-mai
   }
   body #header_main .sitenav-main.column .nav-item.icon-only svg, body #header_main .sitenav-main.megamenu .nav-item.icon-only svg {
     height: 1em;
-    fill: rgb(50, 50, 204);
+    fill: rgb(204, 96, 50);
   }
   body #header_main .sitenav-main.column .nav-item.icon-only .icon-only-text, body #header_main .sitenav-main.megamenu .nav-item.icon-only .icon-only-text {
     position: absolute;
@@ -579,16 +579,16 @@ body #header_main .sitenav-main .sub-nav a:focus, body #header_main .sitenav-mai
     clip: rect(0 0 0 0);
   }
   body #header_main .sitenav-main.column .nav-item.icon-only a:hover svg, body #header_main .sitenav-main.column .nav-item.icon-only a:focus svg, body #header_main .sitenav-main.column .nav-item.icon-only a.open svg, body #header_main .sitenav-main.megamenu .nav-item.icon-only a:hover svg, body #header_main .sitenav-main.megamenu .nav-item.icon-only a:focus svg, body #header_main .sitenav-main.megamenu .nav-item.icon-only a.open svg {
-    fill: rgb(50, 50, 204);
+    fill: rgb(204, 96, 50);
   }
   body #header_main .sitenav-main.column .nav-item > a, body #header_main .sitenav-main.megamenu .nav-item > a {
     text-align: center;
-    color: rgb(50, 50, 204);
+    color: rgb(204, 96, 50);
     background: transparent;
   }
   body #header_main .sitenav-main.column .nav-item > a:hover, body #header_main .sitenav-main.column .nav-item > a:focus, body #header_main .sitenav-main.column .nav-item > a.open, body #header_main .sitenav-main.megamenu .nav-item > a:hover, body #header_main .sitenav-main.megamenu .nav-item > a:focus, body #header_main .sitenav-main.megamenu .nav-item > a.open {
     background-color: transparent;
-    color: rgb(50, 50, 204);
+    color: rgb(204, 96, 50);
   }
   body #header_main .sitenav-main.column .sub-nav, body #header_main .sitenav-main.megamenu .sub-nav {
     background-color: rgb(255, 255, 255);
@@ -619,24 +619,24 @@ body .slick-container .slick-dots .slick-dot-icon {
   background: rgb(229, 229, 229);
 }
 body .slick-container .slick-dots li.slick-active .slick-dot-icon {
-  background: rgb(50, 50, 204);
+  background: rgb(204, 96, 50);
 }
 body .bg-primary {
   background-color: rgb(229, 229, 229);
   color: rgb(0, 0, 0);
 }
 body .bg-secondary {
-  background-color: rgb(50, 50, 204);
+  background-color: rgb(204, 96, 50);
   color: rgb(255, 255, 255);
 }
 body .bg-watermark {
   background-image: url("../images/wm-eagle.png");
 }
 body .content-container .section-title {
-  color: rgb(50, 50, 204);
+  color: rgb(204, 96, 50);
 }
 body .content-container .read-more-link {
-  color: rgb(50, 50, 204);
+  color: rgb(204, 96, 50);
 }
 body .content-container .read-more-link:hover, body .content-container .read-more-link:focus {
   background-color: rgb(255, 255, 255);
@@ -647,10 +647,10 @@ body .content-container .read-more-link {
   border: 1px solid;
 }
 body .content-container .read-more-link:hover, body .content-container .read-more-link:focus {
-  background-color: rgb(50, 50, 204);
+  background-color: rgb(204, 96, 50);
   color: rgb(255, 255, 255);
   text-decoration: none;
-  border-color: rgb(50, 50, 204);
+  border-color: rgb(204, 96, 50);
 }
 body .content-container.news-container .item-summary {
   background-color: rgb(229, 229, 229);
@@ -668,13 +668,13 @@ body .content-container.news-container .read-more-link:hover, body .content-cont
   border-color: rgb(255, 255, 255);
 }
 body .content-container.events-container .tab-label {
-  color: rgb(50, 50, 204);
+  color: rgb(204, 96, 50);
 }
 body .content-container.events-container .item {
   border-bottom: 5px solid rgb(105, 105, 105);
 }
 body .content-container.events-container .item-date {
-  background: rgb(50, 50, 204);
+  background: rgb(204, 96, 50);
   color: rgb(255, 255, 255);
 }
 @font-face {
@@ -689,19 +689,19 @@ body #qlinks_container .link-item > a {
   border-bottom-color: rgb(229, 229, 229);
 }
 body #qlinks_container .link-item > a svg {
-  fill: rgb(50, 50, 204);
+  fill: rgb(204, 96, 50);
 }
 body #qlinks_container .link-item > a:hover, body #qlinks_container .link-item > a:focus {
   background-color: rgba(255, 255, 255, 0.15);
   text-decoration: none;
-  border-bottom-color: rgb(50, 50, 204);
+  border-bottom-color: rgb(204, 96, 50);
 }
 body #infographics_container .infographic-item {
   background-color: rgb(229, 229, 229);
   color: rgb(0, 0, 0);
 }
 body #content_main .pageTitle {
-  color: rgb(50, 50, 204);
+  color: rgb(204, 96, 50);
 }
 body #content_main .right-column-page-navigation {
   background: rgb(229, 229, 229);
@@ -710,11 +710,11 @@ body #content_main .right-column-page-navigation li a {
   color: rgb(0, 0, 0);
 }
 body #content_main .right-column-page-navigation li.active a {
-  background-color: rgb(50, 50, 204);
+  background-color: rgb(204, 96, 50);
   color: rgb(255, 255, 255);
 }
 body #footer_main_row {
-  background-color: rgb(50, 50, 204);
+  background-color: rgb(204, 96, 50);
   color: rgb(255, 255, 255);
 }
 body #mobile_footer_nav {
